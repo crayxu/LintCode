@@ -10,7 +10,6 @@ Here are my codes.
 ## Problems
 (Note: I did these problems without considering the challenge part.)
 
-| # | Title | Solution | Time | Space | Difficulty | Tag | Note |
-|---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
-|1|[A + B Problem](https://www.lintcode.com/problem/a-b-problem/description)| [C++](./C++/a-b-problem.cpp)| _O(1)_ | _O(1)_ | Medium | | |
-|82|[Single Number](http://lintcode.com/en/problem/single-number/)| [C++](./C++/single-number.cpp)| _O(n)_ | _O(1)_ | Easy | LeetCode| |
+| # | Title | Solution | Difficulty | Tag | Note |
+|---| ----- | -------- | ---------- | --- | ---- |
+|1|[A + B Problem](https://www.lintcode.com/problem/a-b-problem/description)| [C++](./C++/a-b-problem.cpp)| 

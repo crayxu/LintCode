@@ -10,6 +10,6 @@ Here are my codes.
 ## Problems
 (Note: I did these problems without considering the challenge part.)
 
-| # | Title | Solution | Difficulty | Tag | Note |
-|---| ----- | -------- | ---------- | --- | ---- |
+| # | Title | Solution | Difficulty | Note |
+|---| ----- | -------- | ---------- | ---- | 
 | 1 |[A + B Problem](https://www.lintcode.com/problem/a-b-problem/description)| [C++](./C++/a-b-problem.cpp) | Easy |

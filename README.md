@@ -7,11 +7,7 @@ I am a code lover and still studying C++, Data Structure and Algorithm.
 The purpose of this repo is only for me to record my learning progress.
 Here are my codes.
 
---
-First time, I will not do chanllenges
---
-
-## Problems
+## Problems(Igore Challenge Part)
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
 |1|[A + B Problem](http://lintcode.com/en/problem/a-b-problem/)| [C++](./C++/a-b-problem.cpp)| _O(1)_ | _O(1)_ | Medium | | |

@@ -1,3 +1,6 @@
+// Author: Cray Xu
+// Data: 2018.7.31 
+
 class Solution {
 public:
     /**

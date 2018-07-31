@@ -7,6 +7,10 @@ I am a code lover and still studying C++, Data Structure and Algorithm.
 The purpose of this repo is only for me to record my learning progress.
 Here are my codes.
 
+--
+First time, I will not do chanllenges
+--
+
 ## Problems
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |

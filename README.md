@@ -12,4 +12,4 @@ Here are my codes.
 
 | # | Title | Solution | Difficulty | Tag | Note |
 |---| ----- | -------- | ---------- | --- | ---- |
-|1|[A + B Problem](https://www.lintcode.com/problem/a-b-problem/description)| [C++](./C++/a-b-problem.cpp)| 
+|1|[A + B Problem](https://www.lintcode.com/problem/a-b-problem/description)|[C++](./C++/a-b-problem.cpp)|Easy|

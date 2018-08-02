@@ -1,4 +1,4 @@
-# [LintCode](http://www.lintcode.com/en/problem/) ![Language](https://img.shields.io/badge/language-c%2B%2B-orange.svg) ![Progress](https://img.shields.io/badge/progress-0%2F1542-ff69b4.svg) ![Author](https://img.shields.io/badge/author-Cray%20Xu-blue.svg)
+# [LintCode](http://www.lintcode.com/en/problem/) ![Language](https://img.shields.io/badge/language-c%2B%2B-orange.svg) ![Progress](https://img.shields.io/badge/progress-2%2F1542-ff69b4.svg) ![Author](https://img.shields.io/badge/author-Cray%20Xu-blue.svg)
 
 Until 2018/7/31, there are `1542` problems on LintCode.
 I will keep practicing these problems from easy to hard, recording my learning progress.

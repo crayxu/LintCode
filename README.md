@@ -13,4 +13,7 @@ Here are my codes.
 | # | Title | Solution | Difficulty | Note |
 |---| ----- | -------- | ---------- | ---- | 
 | 1 |[A + B Problem](https://www.lintcode.com/problem/a-b-problem/description)| [C++](./C++/a-b-problem.cpp) | Easy |
+| 2 |[Trailing Zeros](https://www.lintcode.com/problem/trailing-zeros/description)| [C++](./C++/trailing-zeros.cpp) | Easy |
 | 6 |[Merge Two Sorted Arrays](https://lintcode.com/problem/merge-two-sorted-arrays/description)| [C++](./C++/merge-two-sorted-arrays.cpp) | Easy |
+
+

@@ -18,5 +18,6 @@ Here are my codes.
 | 5 |[Kth Largest Element](https://www.lintcode.com/problem/kth-largest-element/description)| [C++](./C++/kth-largest-element.cpp) | Medium |
 | 6 |[Merge Two Sorted Arrays](https://lintcode.com/problem/merge-two-sorted-arrays/description)| [C++](./C++/merge-two-sorted-arrays.cpp) | Easy |
 | 8 |[Rotate String](https://lintcode.com/problem/rotate-string/description)| [C++](./C++/rotate-string.cpp) | Easy |
+| 9 |[Fizz Buzz](https://lintcode.com/problem/fizz-buzz/description)| [C++](./C++/fizz-buzz.cpp) | Easy |
 
 

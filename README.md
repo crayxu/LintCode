@@ -20,5 +20,6 @@ Here are my codes.
 | 8 |[Rotate String](https://lintcode.com/problem/rotate-string/description)| [C++](./C++/rotate-string.cpp) | Easy |
 | 9 |[Fizz Buzz](https://lintcode.com/problem/fizz-buzz/description)| [C++](./C++/fizz-buzz.cpp) | Easy |
 | 14 |[First Position of Target](https://lintcode.com/problem/first-position-of-target/description)| [C++](./C++/first-position-of-target.cpp) | Easy |
+| 13 |[Implement strStr()](https://lintcode.com/problem/implement-strstr/description)| [C++](./C++/implement-strstr.cpp) | Easy |
 
  

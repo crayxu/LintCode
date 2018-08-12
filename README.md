@@ -19,5 +19,6 @@ Here are my codes.
 | 6 |[Merge Two Sorted Arrays](https://lintcode.com/problem/merge-two-sorted-arrays/description)| [C++](./C++/merge-two-sorted-arrays.cpp) | Easy |
 | 8 |[Rotate String](https://lintcode.com/problem/rotate-string/description)| [C++](./C++/rotate-string.cpp) | Easy |
 | 9 |[Fizz Buzz](https://lintcode.com/problem/fizz-buzz/description)| [C++](./C++/fizz-buzz.cpp) | Easy |
+| 14 |[First Position of Target](https://lintcode.com/problem/first-position-of-target/description)| [C++](./C++/first-position-of-target.cpp) | Easy |
 
-
+ 

@@ -27,4 +27,5 @@ Here are my codes.
 | 56 |[Two Sum](https://www.lintcode.com/problem/two-sum/description)| [C++](./C++/two-sum.cpp) | Easy |
 | 55 |[Compare Strings](https://www.lintcode.com/problem/compare-strings/description)| [C++](./C++/compare-strings.cpp) | Easy |
 | 82 |[Single Number](https://www.lintcode.com/problem/single-number/description)| [C++](./C++/single-number.cpp) | Easy |
+| 100 |[Remove Duplicates from Sorted Array](https://www.lintcode.com/problem/remove-duplicates-from-sorted-array/description)| [C++](./C++/remove-duplicates-from-sorted-array.cpp) | Easy |
  

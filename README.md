@@ -26,4 +26,5 @@ Here are my codes.
 | 39 |[Recover Rotated Sorted Array](https://www.lintcode.com/problem/recover-rotated-sorted-array/description)| [C++](./C++/recover-rotated-sorted-array.cpp) | Easy |
 | 56 |[Two Sum](https://www.lintcode.com/problem/two-sum/description)| [C++](./C++/two-sum.cpp) | Easy |
 | 55 |[Compare Strings](https://www.lintcode.com/problem/compare-strings/description)| [C++](./C++/compare-strings.cpp) | Easy |
+| 82 |[Single Number](https://www.lintcode.com/problem/single-number/description)| [C++](./C++/single-number.cpp) | Easy |
  

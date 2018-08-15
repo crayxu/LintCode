@@ -28,4 +28,5 @@ Here are my codes.
 | 55 |[Compare Strings](https://www.lintcode.com/problem/compare-strings/description)| [C++](./C++/compare-strings.cpp) | Easy |
 | 82 |[Single Number](https://www.lintcode.com/problem/single-number/description)| [C++](./C++/single-number.cpp) | Easy |
 | 100 |[Remove Duplicates from Sorted Array](https://www.lintcode.com/problem/remove-duplicates-from-sorted-array/description)| [C++](./C++/remove-duplicates-from-sorted-array.cpp) | Easy |
+| 4 |[Ugly Number II](https://lintcode.com/problem/ugly-number-ii/description)| [C++](./C++/ugly-number-ii.cpp) | Medium |
  

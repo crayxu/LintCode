@@ -30,4 +30,6 @@ Here are my codes.
 | 100 |[Remove Duplicates from Sorted Array](https://www.lintcode.com/problem/remove-duplicates-from-sorted-array/description)| [C++](./C++/remove-duplicates-from-sorted-array.cpp) | Easy |
 | 4 |[Ugly Number II](https://lintcode.com/problem/ugly-number-ii/description)| [C++](./C++/ugly-number-ii.cpp) | Medium |
 | 22 |[Flatten List](https://lintcode.com/problem/flatten-list/description)| [C++](./C++/flatten-list.cpp) | Easy |
+| 50 |[Product of Array Exclude Itself](https://lintcode.com/problem/product-of-array-exclude-itself/description)| [C++](./C++/product-of-array-exclude-itself.cpp) | Easy |
+
  

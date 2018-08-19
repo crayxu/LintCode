@@ -1,4 +1,4 @@
-# [LintCode](http://www.lintcode.com/en/problem/) ![Language](https://img.shields.io/badge/language-C%2B%2B-orange.svg) ![Progress](https://img.shields.io/badge/progress-20%2F1542-ff69b4.svg) ![Author](https://img.shields.io/badge/Author-Cray%20Xu-blue.svg)
+# [LintCode](http://www.lintcode.com/en/problem/) ![Language](https://img.shields.io/badge/language-C%2B%2B-orange.svg) ![Progress](https://img.shields.io/badge/progress-22%2F1542-ff69b4.svg) ![Author](https://img.shields.io/badge/Author-Cray%20Xu-blue.svg)
 
 Until 2018/7/31, there are `1147` problems on LintCode.
 I will keep practicing these problems from easy to hard, recording my learning progress.
@@ -33,5 +33,6 @@ Here are my codes.
 | 50 |[Product of Array Exclude Itself](https://lintcode.com/problem/product-of-array-exclude-itself/description)| [C++](./C++/product-of-array-exclude-itself.cpp) | Easy |
 | 12 |[Min Stack](https://www.lintcode.com/problem/min-stack/description)| [C++](./C++/min-stack.cpp) | Medium |
 | 30 |[Insert Interval](https://lintcode.com/problem/insert-interval/description)| [C++](./C++/insert-interval.cpp) | Easy |
+| 60 |[Search Insert Position](https://lintcode.com/problem/search-insert-position/description)| [C++](./C++/search-insert-position.cpp) | Easy |
 
  

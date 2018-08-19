@@ -35,5 +35,6 @@ Here are my codes.
 | 30 |[Insert Interval](https://lintcode.com/problem/insert-interval/description)| [C++](./C++/insert-interval.cpp) | Easy |
 | 60 |[Search Insert Position](https://lintcode.com/problem/search-insert-position/description)| [C++](./C++/search-insert-position.cpp) | Easy |
 | 80 |[Median](https://lintcode.com/problem/median/description)| [C++](./C++/median.cpp) | Easy |
+| 145 |[Lowercase to Uppercase](https://lintcode.com/problem/lowercase-to-uppercase/description)| [C++](./C++/lowercase-to-uppercase.cpp) | Naive |
 
  

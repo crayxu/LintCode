@@ -32,5 +32,6 @@ Here are my codes.
 | 22 |[Flatten List](https://lintcode.com/problem/flatten-list/description)| [C++](./C++/flatten-list.cpp) | Easy |
 | 50 |[Product of Array Exclude Itself](https://lintcode.com/problem/product-of-array-exclude-itself/description)| [C++](./C++/product-of-array-exclude-itself.cpp) | Easy |
 | 12 |[Min Stack](https://www.lintcode.com/problem/min-stack/description)| [C++](./C++/min-stack.cpp) | Medium |
+| 30 |[Insert Interval](https://lintcode.com/problem/insert-interval/description)| [C++](./C++/insert-interval.cpp) | Easy |
 
  

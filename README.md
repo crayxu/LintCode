@@ -40,5 +40,6 @@ Here are my codes.
 | 67 |[Binary Tree Inorder Traversal](https://lintcode.com/problem/binary-tree-inorder-traversal/description)| [C++](./C++/binary-tree-inorder-traversal.cpp) | Easy |
 | 68 |[Binary Tree Postorder Traversal](https://lintcode.com/problem/binary-tree-postorder-traversal/description)| [C++](./C++/binary-tree-postorder-traversal.cpp) | Easy |
 | 53 |[Reverse Words in a String](https://www.lintcode.com/problem/reverse-words-in-a-string/description)| [C++](./C++/reverse-words-in-a-string.cpp) | Easy |
+| 46 |[Majority Element](https://www.lintcode.com/problem/majority-element/description)| [C++](./C++/majority-element.cpp) | Easy |
 
  

@@ -36,5 +36,8 @@ Here are my codes.
 | 60 |[Search Insert Position](https://lintcode.com/problem/search-insert-position/description)| [C++](./C++/search-insert-position.cpp) | Easy |
 | 80 |[Median](https://lintcode.com/problem/median/description)| [C++](./C++/median.cpp) | Easy |
 | 145 |[Lowercase to Uppercase](https://lintcode.com/problem/lowercase-to-uppercase/description)| [C++](./C++/lowercase-to-uppercase.cpp) | Naive |
+| 66 |[Binary Tree Preorder Traversal](https://lintcode.com/problem/binary-tree-preorder-traversal/description)| [C++](./C++/binary-tree-preorder-traversal.cpp) | Easy |
+| 67 |[Binary Tree Inorder Traversal](https://lintcode.com/problem/binary-tree-inorder-traversal/description)| [C++](./C++/binary-tree-inorder-traversal.cpp) | Easy |
+| 68 |[Binary Tree Postorder Traversal](https://lintcode.com/problem/binary-tree-postorder-traversal/description)| [C++](./C++/binary-tree-postorder-traversal.cpp) | Easy |
 
  

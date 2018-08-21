@@ -42,5 +42,6 @@ Here are my codes.
 | 53 |[Reverse Words in a String](https://www.lintcode.com/problem/reverse-words-in-a-string/description)| [C++](./C++/reverse-words-in-a-string.cpp) | Easy |
 | 46 |[Majority Element](https://www.lintcode.com/problem/majority-element/description)| [C++](./C++/majority-element.cpp) | Easy |
 | 41 |[Maximum Subarray](https://www.lintcode.com/problem/maximum-subarray/description)| [C++](./C++/maximum-subarray.cpp) | Easy |
+| 101 |[Remove Duplicates from Sorted Array II](https://www.lintcode.com/problem/remove-duplicates-from-sorted-array-ii/description)| [C++](./C++/remove-duplicates-from-sorted-array-ii.cpp) | Easy |
 
  

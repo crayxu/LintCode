@@ -46,5 +46,6 @@ Here are my codes.
 | 85 |[Insert Node in a Binary Search Tree](https://lintcode.com/problem/insert-node-in-a-binary-search-tree/description)| [C++](./C++/insert-node-in-a-binary-search-tree.cpp) | Easy |
 | 64 |[Merge Sorted Array](https://lintcode.com/problem/merge-sorted-array/description)| [C++](./C++/merge-sorted-array.cpp) | Easy |
 | 366 |[Fibonacci](https://lintcode.com/problem/fibonacci/description)| [C++](./C++/fibonacci.cpp) | Naive |
+| 452 |[Remove Linked List Elements](https://lintcode.com/problem/remove-linked-list-elements/description)| [C++](./C++/remove-linked-list-elements.cpp) | Naive |
 
  

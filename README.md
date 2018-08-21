@@ -45,5 +45,6 @@ Here are my codes.
 | 101 |[Remove Duplicates from Sorted Array II](https://www.lintcode.com/problem/remove-duplicates-from-sorted-array-ii/description)| [C++](./C++/remove-duplicates-from-sorted-array-ii.cpp) | Easy |
 | 85 |[Insert Node in a Binary Search Tree](https://lintcode.com/problem/insert-node-in-a-binary-search-tree/description)| [C++](./C++/insert-node-in-a-binary-search-tree.cpp) | Easy |
 | 64 |[Merge Sorted Array](https://lintcode.com/problem/merge-sorted-array/description)| [C++](./C++/merge-sorted-array.cpp) | Easy |
+| 366 |[Fibonacci](https://lintcode.com/problem/fibonacci/description)| [C++](./C++/fibonacci.cpp) | Naive |
 
  

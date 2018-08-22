@@ -52,5 +52,6 @@ Here are my codes.
 | 466 |[Count Linked List Nodes](https://lintcode.com/problem/count-linked-list-nodes/description)| [C++](./C++/count-linked-list-nodes.cpp) | Naive |
 | 463 |[Sort Integers](https://lintcode.com/problem/sort-integers/description)| [C++](./C++/sort-integers.cpp) | Naive |
 | 479 |[Second Max of Array](https://lintcode.com/problem/second-max-of-array/description)| [C++](./C++/second-max-of-array.cpp) | Naive |
+| 484 |[Swap Two Integers in Array](https://lintcode.com/problem/swap-two-integers-in-array/description)| [C++](./C++/swap-two-integers-in-array.cpp) | Naive |
 
  

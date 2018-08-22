@@ -48,7 +48,7 @@ Here are my codes.
 | 366 |[Fibonacci](https://lintcode.com/problem/fibonacci/description)| [C++](./C++/fibonacci.cpp) | Naive |
 | 452 |[Remove Linked List Elements](https://lintcode.com/problem/remove-linked-list-elements/description)| [C++](./C++/remove-linked-list-elements.cpp) | Naive |
 | 35 |[Reverse Linked List](https://lintcode.com/problem/reverse-linked-list/description)| [C++](./C++/reverse-linked-list.cpp) | Naive |
-| 454 |[Rectangle Area](https://lintcode.com/problem/rectangle-area/description)| [Java](./C++/rectangle-area.cpp) | Naive |
-| 466 |[Count Linked List Nodes](https://lintcode.com/problem/count-linked-list-nodes/description)| [Java](./C++/count-linked-list-node.cpp) | Naive |
+| 454 |[Rectangle Area](https://lintcode.com/problem/rectangle-area/description)| [Java](./C++/rectangle-area.java) | Naive |
+| 466 |[Count Linked List Nodes](https://lintcode.com/problem/count-linked-list-nodes/description)| [C++](./C++/count-linked-list-node.cpp) | Naive |
 
  

@@ -53,5 +53,6 @@ Here are my codes.
 | 463 |[Sort Integers](https://lintcode.com/problem/sort-integers/description)| [C++](./C++/sort-integers.cpp) | Naive |
 | 479 |[Second Max of Array](https://lintcode.com/problem/second-max-of-array/description)| [C++](./C++/second-max-of-array.cpp) | Naive |
 | 484 |[Swap Two Integers in Array](https://lintcode.com/problem/swap-two-integers-in-array/description)| [C++](./C++/swap-two-integers-in-array.cpp) | Naive |
+| 632 |[Binary Tree Maximum Node](https://lintcode.com/problem/binary-tree-maximum-node/description)| [C++](./C++/binary-tree-maximum-node.cpp) | Naive |
 
  

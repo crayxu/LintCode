@@ -55,5 +55,6 @@ Here are my codes.
 | 484 |[Swap Two Integers in Array](https://lintcode.com/problem/swap-two-integers-in-array/description)| [C++](./C++/swap-two-integers-in-array.cpp) | Naive |
 | 632 |[Binary Tree Maximum Node](https://lintcode.com/problem/binary-tree-maximum-node/description)| [C++](./C++/binary-tree-maximum-node.cpp) | Naive |
 | 44 |[Minimum Subarray](https://lintcode.com/problem/minimum-subarray/description)| [C++](./C++/minimum-subarray.cpp) | Easy |
+| 15 |[Permutations](https://lintcode.com/problem/permutations/description)| [C++](./C++/permutations.cpp) | Medium |
 
  

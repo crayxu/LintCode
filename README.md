@@ -56,5 +56,6 @@ Here are my codes.
 | 632 |[Binary Tree Maximum Node](https://lintcode.com/problem/binary-tree-maximum-node/description)| [C++](./C++/binary-tree-maximum-node.cpp) | Naive |
 | 44 |[Minimum Subarray](https://lintcode.com/problem/minimum-subarray/description)| [C++](./C++/minimum-subarray.cpp) | Easy |
 | 15 |[Permutations](https://lintcode.com/problem/permutations/description)| [C++](./C++/permutations.cpp) | Medium |
+| 31 |[Partition Array](https://lintcode.com/problem/partition-array/description)| [C++](./C++/partition-array.cpp) | Medium |
 
  

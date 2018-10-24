@@ -59,5 +59,6 @@ Here are my codes.
 | 31 |[Partition Array](https://lintcode.com/problem/partition-array/description)| [C++](./C++/partition-array.cpp) | Medium |
 | 96 |[Partition Array](https://www.lintcode.com/problem/partition-list/description)| [C++](./C++/partition-list.cpp) | Easy |
 | 142 |[O(1) Check Power of 2](https://www.lintcode.com/problem/o1-check-power-of-2/description)| [C++](./C++/o1-check-power-of-2.cpp) | Easy |
+| 141 |[Sqrt(x)](https://www.lintcode.com/problem/sqrtx/description)| [C++](./C++/sqrtx.cpp) | Easy |
 
  

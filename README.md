@@ -61,6 +61,5 @@ Here are my codes.
 | 142 |[O(1) Check Power of 2](https://www.lintcode.com/problem/o1-check-power-of-2/description)| [C++](./C++/o1-check-power-of-2.cpp) | Easy |
 | 141 |[Sqrt(x)](https://www.lintcode.com/problem/sqrtx/description)| [C++](./C++/sqrtx.cpp) | Easy |
 | 133 |[Longest Word](https://www.lintcode.com/problem/longest-word/description)| [C++](./C++/longest-word.cpp) | Easy |
-| 157 |[Unique Characters](https://www.lintcode.com/problem/unique-characters/description)| [C++](./C++/unique-characters.cpp) | Easy |
-
+| 157 |[Unique Characters](https://www.lintcode.com/problem/unique-characters/description)| [C++](./C++/unique-characters.cpp) | Easy | 50 |
  

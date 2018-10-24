@@ -15,13 +15,15 @@ public:
                 mid = start + (end-start)/2;
                 if (mid * mid > x) {
                     end = mid;
+                } else {
+                    start = mid;
                 }
-                start = mid;
             }
             if (end * end <= x) {
                 return (int) end;
+            } else {
+                return (int) start;
             }
-            return (int) start;
         }
     }
 };

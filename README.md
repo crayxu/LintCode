@@ -62,4 +62,5 @@ Here are my codes.
 | 141 |[Sqrt(x)](https://www.lintcode.com/problem/sqrtx/description)| [C++](./C++/sqrtx.cpp) | Easy |
 | 133 |[Longest Word](https://www.lintcode.com/problem/longest-word/description)| [C++](./C++/longest-word.cpp) | Easy |
 | 157 |[Unique Characters](https://www.lintcode.com/problem/unique-characters/description)| [C++](./C++/unique-characters.cpp) | Easy | 50 |
+| 57 |[3Sum](https://www.lintcode.com/problem/3sum/description)| [C++](./C++/3sum.cpp) | Medium |
  

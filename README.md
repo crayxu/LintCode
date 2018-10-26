@@ -10,8 +10,8 @@ Here are my codes.
 ## Problems (Chronological Order)
 (Note: I did these problems without considering the challenge part.)
 
-| # | Title | Solution | Difficulty | Note |
-|---| ----- | -------- | ---------- | ---- | 
+| # | Title | Solution | Difficulty | Note | Count |
+|---| ----- | -------- | ---------- | ---- | ----- |
 | 1 |[A + B Problem](https://www.lintcode.com/problem/a-b-problem/description)| [C++](./C++/a-b-problem.cpp) | Easy |
 | 2 |[Trailing Zeros](https://www.lintcode.com/problem/trailing-zeros/description)| [C++](./C++/trailing-zeros.cpp) | Easy |
 | 3 |[Digit Counts](https://www.lintcode.com/problem/digit-counts/description)| [C++](./C++/digit-counts.cpp) | Medium |

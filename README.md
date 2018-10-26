@@ -21,7 +21,7 @@ Here are my codes.
 | 9 |[Fizz Buzz](https://lintcode.com/problem/fizz-buzz/description)| [C++](./C++/fizz-buzz.cpp) | Easy |
 | 14 |[First Position of Target](https://lintcode.com/problem/first-position-of-target/description)| [C++](./C++/first-position-of-target.cpp) | Easy |
 | 13 |[Implement strStr()](https://lintcode.com/problem/implement-strstr/description)| [C++](./C++/implement-strstr.cpp) | Easy |
-| 28 |[Search a 2D Matrix](https://www.lintcode.com/problem/search-a-2d-matrix/description)| [C++](./C++/search-a-2d-matrix.cpp) | Easy | 10 |
+| 28 |[Search a 2D Matrix](https://www.lintcode.com/problem/search-a-2d-matrix/description)| [C++](./C++/search-a-2d-matrix.cpp) | Easy | | 10 |
 | 37 |[Reverse 3-digit Integer](https://www.lintcode.com/problem/reverse-3-digit-integer/description)| [C++](./C++/reverse-3-digit-integer.cpp) | Naive |
 | 39 |[Recover Rotated Sorted Array](https://www.lintcode.com/problem/recover-rotated-sorted-array/description)| [C++](./C++/recover-rotated-sorted-array.cpp) | Easy |
 | 56 |[Two Sum](https://www.lintcode.com/problem/two-sum/description)| [C++](./C++/two-sum.cpp) | Easy |

@@ -31,7 +31,7 @@ Here are my codes.
 | 4 |[Ugly Number II](https://lintcode.com/problem/ugly-number-ii/description)| [C++](./C++/ugly-number-ii.cpp) | Medium |
 | 22 |[Flatten List](https://lintcode.com/problem/flatten-list/description)| [C++](./C++/flatten-list.cpp) | Easy |
 | 50 |[Product of Array Exclude Itself](https://lintcode.com/problem/product-of-array-exclude-itself/description)| [C++](./C++/product-of-array-exclude-itself.cpp) | Easy |
-| 12 |[Min Stack](https://www.lintcode.com/problem/min-stack/description)| [C++](./C++/min-stack.cpp) | Medium | 20 |
+| 12 |[Min Stack](https://www.lintcode.com/problem/min-stack/description)| [C++](./C++/min-stack.cpp) | Medium | | 20 |
 | 30 |[Insert Interval](https://lintcode.com/problem/insert-interval/description)| [C++](./C++/insert-interval.cpp) | Easy |
 | 60 |[Search Insert Position](https://lintcode.com/problem/search-insert-position/description)| [C++](./C++/search-insert-position.cpp) | Easy |
 | 80 |[Median](https://lintcode.com/problem/median/description)| [C++](./C++/median.cpp) | Easy |
@@ -41,7 +41,7 @@ Here are my codes.
 | 68 |[Binary Tree Postorder Traversal](https://lintcode.com/problem/binary-tree-postorder-traversal/description)| [C++](./C++/binary-tree-postorder-traversal.cpp) | Easy |
 | 53 |[Reverse Words in a String](https://www.lintcode.com/problem/reverse-words-in-a-string/description)| [C++](./C++/reverse-words-in-a-string.cpp) | Easy |
 | 46 |[Majority Element](https://www.lintcode.com/problem/majority-element/description)| [C++](./C++/majority-element.cpp) | Easy |
-| 41 |[Maximum Subarray](https://www.lintcode.com/problem/maximum-subarray/description)| [C++](./C++/maximum-subarray.cpp) | Easy | 30 |
+| 41 |[Maximum Subarray](https://www.lintcode.com/problem/maximum-subarray/description)| [C++](./C++/maximum-subarray.cpp) | Easy | | 30 |
 | 101 |[Remove Duplicates from Sorted Array II](https://www.lintcode.com/problem/remove-duplicates-from-sorted-array-ii/description)| [C++](./C++/remove-duplicates-from-sorted-array-ii.cpp) | Easy |
 | 85 |[Insert Node in a Binary Search Tree](https://lintcode.com/problem/insert-node-in-a-binary-search-tree/description)| [C++](./C++/insert-node-in-a-binary-search-tree.cpp) | Easy |
 | 64 |[Merge Sorted Array](https://lintcode.com/problem/merge-sorted-array/description)| [C++](./C++/merge-sorted-array.cpp) | Easy |
@@ -51,7 +51,7 @@ Here are my codes.
 | 454 |[Rectangle Area](https://lintcode.com/problem/rectangle-area/description)| [Java](./C++/rectangle-area.java) | Naive |
 | 466 |[Count Linked List Nodes](https://lintcode.com/problem/count-linked-list-nodes/description)| [C++](./C++/count-linked-list-nodes.cpp) | Naive |
 | 463 |[Sort Integers](https://lintcode.com/problem/sort-integers/description)| [C++](./C++/sort-integers.cpp) | Naive |
-| 479 |[Second Max of Array](https://lintcode.com/problem/second-max-of-array/description)| [C++](./C++/second-max-of-array.cpp) | Naive | 40 |
+| 479 |[Second Max of Array](https://lintcode.com/problem/second-max-of-array/description)| [C++](./C++/second-max-of-array.cpp) | Naive | | 40 |
 | 484 |[Swap Two Integers in Array](https://lintcode.com/problem/swap-two-integers-in-array/description)| [C++](./C++/swap-two-integers-in-array.cpp) | Naive |
 | 632 |[Binary Tree Maximum Node](https://lintcode.com/problem/binary-tree-maximum-node/description)| [C++](./C++/binary-tree-maximum-node.cpp) | Naive |
 | 44 |[Minimum Subarray](https://lintcode.com/problem/minimum-subarray/description)| [C++](./C++/minimum-subarray.cpp) | Easy |
@@ -61,7 +61,7 @@ Here are my codes.
 | 142 |[O(1) Check Power of 2](https://www.lintcode.com/problem/o1-check-power-of-2/description)| [C++](./C++/o1-check-power-of-2.cpp) | Easy |
 | 141 |[Sqrt(x)](https://www.lintcode.com/problem/sqrtx/description)| [C++](./C++/sqrtx.cpp) | Easy |
 | 133 |[Longest Word](https://www.lintcode.com/problem/longest-word/description)| [C++](./C++/longest-word.cpp) | Easy |
-| 157 |[Unique Characters](https://www.lintcode.com/problem/unique-characters/description)| [C++](./C++/unique-characters.cpp) | Easy | 50 |
+| 157 |[Unique Characters](https://www.lintcode.com/problem/unique-characters/description)| [C++](./C++/unique-characters.cpp) | Easy | | 50 |
 | 57 |[3Sum](https://www.lintcode.com/problem/3sum/description)| [C++](./C++/3sum.cpp) | Medium |
 | 156 |[Merge Intervals](https://www.lintcode.com/problem/merge-intervals/description)| [C++](./C++/merge-intervals.cpp) | Easy |
  

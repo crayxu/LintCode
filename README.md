@@ -64,4 +64,5 @@ Here are my codes.
 | 157 |[Unique Characters](https://www.lintcode.com/problem/unique-characters/description)| [C++](./C++/unique-characters.cpp) | Easy | | 50 |
 | 57 |[3Sum](https://www.lintcode.com/problem/3sum/description)| [C++](./C++/3sum.cpp) | Medium |
 | 156 |[Merge Intervals](https://www.lintcode.com/problem/merge-intervals/description)| [C++](./C++/merge-intervals.cpp) | Easy |
+| 212 |[Space Replacement](https://www.lintcode.com/problem/space-replacement/description)| [C++](./C++/space-replacement.cpp) | Easy |
  

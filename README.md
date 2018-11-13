@@ -65,4 +65,5 @@ Here are my codes.
 | 57 |[3Sum](https://www.lintcode.com/problem/3sum/description)| [C++](./C++/3sum.cpp) | Medium |
 | 156 |[Merge Intervals](https://www.lintcode.com/problem/merge-intervals/description)| [C++](./C++/merge-intervals.cpp) | Easy |
 | 212 |[Space Replacement](https://www.lintcode.com/problem/space-replacement/description)| [C++](./C++/space-replacement.cpp) | Easy |
+| 209 |[First Unique Character in a String](https://www.lintcode.com/problem/first-unique-character-in-a-string/description)| [C++](./C++/first-unique-character-in-a-string.cpp) | Easy |
  

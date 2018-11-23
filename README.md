@@ -67,4 +67,5 @@ Here are my codes.
 | 212 |[Space Replacement](https://www.lintcode.com/problem/space-replacement/description)| [C++](./C++/space-replacement.cpp) | Easy |
 | 209 |[First Unique Character in a String](https://www.lintcode.com/problem/first-unique-character-in-a-string/description)| [C++](./C++/first-unique-character-in-a-string.cpp) | Easy |
 | 491 |[Palindrome Number](https://www.lintcode.com/problem/palindrome-number/description)| [C++](./C++/palindrome-number.cpp) | Easy |
+| 213 |[String Compression](https://www.lintcode.com/problem/string-compression/description)| [C++](./C++/string-compression.cpp) | Easy |
  

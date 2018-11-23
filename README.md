@@ -68,4 +68,5 @@ Here are my codes.
 | 209 |[First Unique Character in a String](https://www.lintcode.com/problem/first-unique-character-in-a-string/description)| [C++](./C++/first-unique-character-in-a-string.cpp) | Easy |
 | 491 |[Palindrome Number](https://www.lintcode.com/problem/palindrome-number/description)| [C++](./C++/palindrome-number.cpp) | Easy |
 | 213 |[String Compression](https://www.lintcode.com/problem/string-compression/description)| [C++](./C++/string-compression.cpp) | Easy |
+| 138 |[Subarray Sum](https://www.lintcode.com/problem/subarray-sum/description)| [C++](./C++/subarray-sum.cpp) | Easy |
  

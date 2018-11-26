@@ -73,5 +73,5 @@ Here are my codes.
 | 138 |[Subarray Sum](https://www.lintcode.com/problem/subarray-sum/description)| [C++](./C++/subarray-sum.cpp) | Easy |
 | 422 |[Length of Last Word](https://www.lintcode.com/problem/length-of-last-word/description)| [C++](./C++/length-of-last-word.cpp) | Easy |
 | 423 |[Valid Parentheses](https://www.lintcode.com/problem/valid-parentheses/description)| [C++](./C++/valid-parentheses.cpp) | Easy | O(n) | DC |
-| 457 |[Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/description)| [C++](./C++/classical-binary-search.cpp) | Easy | O(logn) | DC |
+| 457 |[Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/description)| [C++](./C++/classical-binary-search.cpp) | Easy | O(logn) | DC | 60 |
  

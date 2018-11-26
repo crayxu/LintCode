@@ -8,8 +8,7 @@ The purpose of this repo is only for me to record my learning progress.
 Here are my codes.
 
 ## Problems (Chronological Order)
-Note:
----
+**Note:**
 
 
 | # | Title | Solution | Difficulty | Note | Count |

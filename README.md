@@ -12,8 +12,8 @@ Here are my codes.
 - NDC: Not Do Challenge  
 - DC: Do Challenge  
 
-| # | Title | Solution | Difficulty | Note | Count |
-|---| ----- | -------- | ---------- | ---- | ----- |
+| # | Title | Solution | Difficulty | Note | Efficiency | Count |
+|---| ----- | -------- | ---------- | ---- | ---------- | ----- |
 | 1 |[A + B Problem](https://www.lintcode.com/problem/a-b-problem/description)| [C++](./C++/a-b-problem.cpp) | Easy |
 | 2 |[Trailing Zeros](https://www.lintcode.com/problem/trailing-zeros/description)| [C++](./C++/trailing-zeros.cpp) | Easy |
 | 3 |[Digit Counts](https://www.lintcode.com/problem/digit-counts/description)| [C++](./C++/digit-counts.cpp) | Medium |
@@ -72,5 +72,5 @@ Here are my codes.
 | 213 |[String Compression](https://www.lintcode.com/problem/string-compression/description)| [C++](./C++/string-compression.cpp) | Easy |
 | 138 |[Subarray Sum](https://www.lintcode.com/problem/subarray-sum/description)| [C++](./C++/subarray-sum.cpp) | Easy |
 | 422 |[Length of Last Word](https://www.lintcode.com/problem/length-of-last-word/description)| [C++](./C++/length-of-last-word.cpp) | Easy |
-| 423 |[Valid Parentheses](https://www.lintcode.com/problem/valid-parentheses/description)| [C++](./C++/valid-parentheses.cpp) | Easy | DC O(n)|
+| 423 |[Valid Parentheses](https://www.lintcode.com/problem/valid-parentheses/description)| [C++](./C++/valid-parentheses.cpp) | Easy | O(n) | DC |
  

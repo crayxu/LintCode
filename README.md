@@ -9,8 +9,8 @@ Here are my codes.
 
 ## Problems (Chronological Order)
 **Note:**
-NDC: Not Do Challenge  
-DC: Do Challenge  
+- NDC: Not Do Challenge  
+- DC: Do Challenge  
 
 | # | Title | Solution | Difficulty | Note | Count |
 |---| ----- | -------- | ---------- | ---- | ----- |

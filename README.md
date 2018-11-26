@@ -72,5 +72,5 @@ Here are my codes.
 | 213 |[String Compression](https://www.lintcode.com/problem/string-compression/description)| [C++](./C++/string-compression.cpp) | Easy |
 | 138 |[Subarray Sum](https://www.lintcode.com/problem/subarray-sum/description)| [C++](./C++/subarray-sum.cpp) | Easy |
 | 422 |[Length of Last Word](https://www.lintcode.com/problem/length-of-last-word/description)| [C++](./C++/length-of-last-word.cpp) | Easy |
-| 423 |[Valid Parentheses](https://www.lintcode.com/problem/valid-parentheses/description)| [C++](./C++/valid-parentheses.cpp) | Easy |
+| 423 |[Valid Parentheses](https://www.lintcode.com/problem/valid-parentheses/description)| [C++](./C++/valid-parentheses.cpp) | Easy | DC O(n)|
  

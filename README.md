@@ -69,4 +69,5 @@ Here are my codes.
 | 491 |[Palindrome Number](https://www.lintcode.com/problem/palindrome-number/description)| [C++](./C++/palindrome-number.cpp) | Easy |
 | 213 |[String Compression](https://www.lintcode.com/problem/string-compression/description)| [C++](./C++/string-compression.cpp) | Easy |
 | 138 |[Subarray Sum](https://www.lintcode.com/problem/subarray-sum/description)| [C++](./C++/subarray-sum.cpp) | Easy |
+| 422 |[Length of Last Word](https://www.lintcode.com/problem/length-of-last-word/description)| [C++](./C++/length-of-last-word.cpp) | Easy |
  

@@ -9,6 +9,7 @@ Here are my codes.
 
 ## Problems (Chronological Order)
 **Note:**
+- NC: No Challenge
 - NDC: Not Do Challenge  
 - DC: Do Challenge  
 
@@ -74,4 +75,5 @@ Here are my codes.
 | 422 |[Length of Last Word](https://www.lintcode.com/problem/length-of-last-word/description)| [C++](./C++/length-of-last-word.cpp) | Easy |
 | 423 |[Valid Parentheses](https://www.lintcode.com/problem/valid-parentheses/description)| [C++](./C++/valid-parentheses.cpp) | Easy | O(n) | DC |
 | 457 |[Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/description)| [C++](./C++/classical-binary-search.cpp) | Easy | O(logn) | DC | 60 |
+| 1095 |[Maximum Swap](https://www.lintcode.com/problem/maximum-swap/description)| [C++](./C++/maximum-swap.cpp) | Medium | O(n) | NC |
  

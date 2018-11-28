@@ -16,7 +16,7 @@ Here are my codes.
 
 | # | Title | Solution | Difficulty | Efficiency | Note | Count |
 |---| ----- | -------- | ---------- | ---------- | ---- | ----- |
-| 1 |[A + B Problem](https://www.lintcode.com/problem/a-b-problem/description)| [C++](./C++/a-b-problem.cpp) | Easy |
+| :moneybag: 1 |[A + B Problem](https://www.lintcode.com/problem/a-b-problem/description)| [C++](./C++/a-b-problem.cpp) | Easy |
 | 2 |[Trailing Zeros](https://www.lintcode.com/problem/trailing-zeros/description)| [C++](./C++/trailing-zeros.cpp) | Easy |
 | 3 |[Digit Counts](https://www.lintcode.com/problem/digit-counts/description)| [C++](./C++/digit-counts.cpp) | Medium |
 | 5 |[Kth Largest Element](https://www.lintcode.com/problem/kth-largest-element/description)| [C++](./C++/kth-largest-element.cpp) | Medium |

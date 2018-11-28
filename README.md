@@ -12,6 +12,7 @@ Here are my codes.
 - NC: No Challenge
 - NDC: Not Do Challenge  
 - DC: Do Challenge  
+- :moneybag: : VIP Access
 
 | # | Title | Solution | Difficulty | Efficiency | Note | Count |
 |---| ----- | -------- | ---------- | ---------- | ---- | ----- |

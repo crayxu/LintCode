@@ -16,7 +16,7 @@ Here are my codes.
 
 | # | Title | Solution | Difficulty | Efficiency | Note | Count |
 |---| ----- | -------- | ---------- | ---------- | ---- | ----- |
-| :moneybag: 1 |[A + B Problem](https://www.lintcode.com/problem/a-b-problem/description)| [C++](./C++/a-b-problem.cpp) | Easy |
+| 1 |[A + B Problem](https://www.lintcode.com/problem/a-b-problem/description)| [C++](./C++/a-b-problem.cpp) | Easy |
 | 2 |[Trailing Zeros](https://www.lintcode.com/problem/trailing-zeros/description)| [C++](./C++/trailing-zeros.cpp) | Easy |
 | 3 |[Digit Counts](https://www.lintcode.com/problem/digit-counts/description)| [C++](./C++/digit-counts.cpp) | Medium |
 | 5 |[Kth Largest Element](https://www.lintcode.com/problem/kth-largest-element/description)| [C++](./C++/kth-largest-element.cpp) | Medium |
@@ -76,5 +76,5 @@ Here are my codes.
 | 422 |[Length of Last Word](https://www.lintcode.com/problem/length-of-last-word/description)| [C++](./C++/length-of-last-word.cpp) | Easy |
 | 423 |[Valid Parentheses](https://www.lintcode.com/problem/valid-parentheses/description)| [C++](./C++/valid-parentheses.cpp) | Easy | O(n) | DC |
 | 457 |[Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/description)| [C++](./C++/classical-binary-search.cpp) | Easy | O(logn) | DC | 60 |
-| 1095 |[Maximum Swap](https://www.lintcode.com/problem/maximum-swap/description)| [C++](./C++/maximum-swap.cpp) | Medium | O(n) | NC |
+| 1095 |[Maximum Swap](https://www.lintcode.com/problem/maximum-swap/description)| [C++](./C++/maximum-swap.cpp) | Medium | O(n) | NC :moneybag: |
  

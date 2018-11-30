@@ -78,4 +78,5 @@ Here are my codes.
 | 457 |[Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/description)| [C++](./C++/classical-binary-search.cpp) | Easy | O(logn) | DC | 60 |
 | 1095 |[Maximum Swap](https://www.lintcode.com/problem/maximum-swap/description)| [C++](./C++/maximum-swap.cpp) | Medium | O(n) | NC |
 | 49 |[Sort Letters by Case](https://www.lintcode.com/problem/sort-letters-by-case/description)| [C++](./C++/sort-letters-by-case.cpp) | Medium | O(n) | DC |
+| 214 |:moneybag:[Max of Array](https://www.lintcode.com/problem/max-of-array/description)| [C++](./C++/max-of-array.cpp) | Native | O(n) | NC |
  

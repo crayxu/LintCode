@@ -78,9 +78,9 @@ Here are my codes.
 | 457 |[Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/description)| [C++](./C++/classical-binary-search.cpp) | Easy | O(logn) | DC | 60 |
 | 1095 |[Maximum Swap](https://www.lintcode.com/problem/maximum-swap/description)| [C++](./C++/maximum-swap.cpp) | Medium | O(n) | NC |
 | 49 |[Sort Letters by Case](https://www.lintcode.com/problem/sort-letters-by-case/description)| [C++](./C++/sort-letters-by-case.cpp) | Medium | O(n) | DC |
-| 214 |:moneybag:[Max of Array](https://www.lintcode.com/problem/max-of-array/description)| [C++](./C++/max-of-array.cpp) | Native | O(n) | NC |
-| 146 |:moneybag:[Lowercase to Uppercase II](https://www.lintcode.com/problem/lowercase-to-uppercase-ii/description)| [C++](./C++/lowercase-to-uppercase-ii.cpp) | Native | O(n) | NC |
-| 222 |:moneybag:[Setter and Getter](https://www.lintcode.com/problem/setter-and-getter/description)| [Java](./C++/setter-and-getter.java) | Native | O(1) | NC |
-| 1613 |:moneybag:[Highest frequency IP](https://www.lintcode.com/problem/highest-frequency-ip/description)| [C++](./C++/highest-frequency-ip.cpp) | Native | O(n) | NC |
-| 485 |:moneybag:[Generate ArrayList with Given Size](https://www.lintcode.com/problem/generate-arraylist-with-given-size/description)| [JavaScript](./C++/generate-arraylist-with-given-size.js) | Native | O(n) | NC | 
-| 483 |:moneybag:[Convert Linked List to Array List](https://www.lintcode.com/problem/convert-linked-list-to-array-list/description)| [C++](./C++/convert-linked-list-to-array-list.c++) | Native | O(n) | NC | 
+| 214 |:moneybag: [Max of Array](https://www.lintcode.com/problem/max-of-array/description)| [C++](./C++/max-of-array.cpp) | Native | O(n) | NC |
+| 146 |:moneybag: [Lowercase to Uppercase II](https://www.lintcode.com/problem/lowercase-to-uppercase-ii/description)| [C++](./C++/lowercase-to-uppercase-ii.cpp) | Native | O(n) | NC |
+| 222 |:moneybag: [Setter and Getter](https://www.lintcode.com/problem/setter-and-getter/description)| [Java](./C++/setter-and-getter.java) | Native | O(1) | NC |
+| 1613 |:moneybag: [Highest frequency IP](https://www.lintcode.com/problem/highest-frequency-ip/description)| [C++](./C++/highest-frequency-ip.cpp) | Native | O(n) | NC |
+| 485 |:moneybag: [Generate ArrayList with Given Size](https://www.lintcode.com/problem/generate-arraylist-with-given-size/description)| [JavaScript](./C++/generate-arraylist-with-given-size.js) | Native | O(n) | NC | 
+| 483 |:moneybag: [Convert Linked List to Array List](https://www.lintcode.com/problem/convert-linked-list-to-array-list/description)| [C++](./C++/convert-linked-list-to-array-list.c++) | Native | O(n) | NC | 

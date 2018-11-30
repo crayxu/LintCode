@@ -81,4 +81,5 @@ Here are my codes.
 | 214 |:moneybag:[Max of Array](https://www.lintcode.com/problem/max-of-array/description)| [C++](./C++/max-of-array.cpp) | Native | O(n) | NC |
 | 146 |:moneybag:[Lowercase to Uppercase II](https://www.lintcode.com/problem/lowercase-to-uppercase-ii/description)| [C++](./C++/lowercase-to-uppercase-ii.cpp) | Native | O(n) | NC |
 | 222 |:moneybag:[Setter and Getter](https://www.lintcode.com/problem/setter-and-getter/description)| [Java](./C++/setter-and-getter.java) | Native | O(1) | NC |
+| 1613 |:moneybag:[Highest frequency IP](https://www.lintcode.com/problem/highest-frequency-ip/description)| [C++](./C++/highest-frequency-ip.cpp) | Native | O(n) | NC |
  

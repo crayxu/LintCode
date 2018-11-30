@@ -79,4 +79,5 @@ Here are my codes.
 | 1095 |[Maximum Swap](https://www.lintcode.com/problem/maximum-swap/description)| [C++](./C++/maximum-swap.cpp) | Medium | O(n) | NC |
 | 49 |[Sort Letters by Case](https://www.lintcode.com/problem/sort-letters-by-case/description)| [C++](./C++/sort-letters-by-case.cpp) | Medium | O(n) | DC |
 | 214 |:moneybag:[Max of Array](https://www.lintcode.com/problem/max-of-array/description)| [C++](./C++/max-of-array.cpp) | Native | O(n) | NC |
+| 146 |:moneybag:[Lowercase to Uppercase II](https://www.lintcode.com/problem/lowercase-to-uppercase-ii/description)| [C++](./C++/lowercase-to-uppercase-ii.cpp) | Native | O(n) | NC |
  

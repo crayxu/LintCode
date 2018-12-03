@@ -89,3 +89,4 @@ Here are my codes.
 | 158 |[Valid Anagram](https://www.lintcode.com/problem/valid-anagram/description)| [C++](./C++/valid-anagram.cpp) | Easy | O(n) | DC |
 | 172 |[Remove Element](https://www.lintcode.com/problem/remove-element/description)| [C++](./C++/remove-element.cpp) | Easy | O(n) | NC |
 | 182 |[Delete Digits](https://www.lintcode.com/problem/delete-digits/description)| [C++](./C++/delete-digits.cpp) | Medium | Unspecified | NC |
+| 40 |[Implement Queue by Two Stacks](https://www.lintcode.com/problem/implement-queue-by-two-stacks/description)| [C++](./C++/implement-queue-by-two-stacks.cpp) | Medium | O(1) by AVERAGE | DC |

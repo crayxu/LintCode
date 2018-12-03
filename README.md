@@ -86,3 +86,4 @@ Here are my codes.
 | 483 |:moneybag: [Convert Linked List to Array List](https://www.lintcode.com/problem/convert-linked-list-to-array-list/description)| [C++](./C++/convert-linked-list-to-array-list.c++) | Native | O(n) | NC | 
 | 478 |:moneybag: [Simple Calculator](https://www.lintcode.com/problem/simple-calculator/description)| [Java](./C++/simple-calculator.java) | Native | O(1) | NC | 
 | 456 |:moneybag: [Reference](https://www.lintcode.com/problem/reference/description)| [Java](./C++/reference.java) | Native | O(1) | NC | 70 |
+| 158 |:moneybag: [Valid Anagram](https://www.lintcode.com/problem/valid-anagram/description)| [C++](./C++/valid-anagram.cpp) | Easy | O(n) | DC |

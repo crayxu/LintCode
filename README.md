@@ -88,3 +88,4 @@ Here are my codes.
 | 456 |:moneybag: [Reference](https://www.lintcode.com/problem/reference/description)| [Java](./C++/reference.java) | Native | O(1) | NC | 70 |
 | 158 |[Valid Anagram](https://www.lintcode.com/problem/valid-anagram/description)| [C++](./C++/valid-anagram.cpp) | Easy | O(n) | DC |
 | 172 |[Remove Element](https://www.lintcode.com/problem/remove-element/description)| [C++](./C++/remove-element.cpp) | Easy | O(n) | NC |
+| 182 |[Delete Digits](https://www.lintcode.com/problem/delete-digits/description)| [C++](./C++/delete-digits.cpp) | Medium | Unspecified | NC |

@@ -90,3 +90,4 @@ Here are my codes.
 | 172 |[Remove Element](https://www.lintcode.com/problem/remove-element/description)| [C++](./C++/remove-element.cpp) | Easy | O(n) | NC |
 | 182 |[Delete Digits](https://www.lintcode.com/problem/delete-digits/description)| [C++](./C++/delete-digits.cpp) | Medium | Unspecified | NC |
 | 40 |[Implement Queue by Two Stacks](https://www.lintcode.com/problem/implement-queue-by-two-stacks/description)| [C++](./C++/implement-queue-by-two-stacks.cpp) | Medium | O(1) by AVERAGE | DC |
+| 196 |[Missing Number](https://www.lintcode.com/problem/missing-number/description)| [C++](./C++/missing-number.cpp) | Medium | O(n) | DC |

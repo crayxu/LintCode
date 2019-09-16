@@ -10,7 +10,8 @@ public:
             return 0;
         }
         return 1 + countDigit(n/10);
-    }  
+    }
+    
     bool check(int n) { 
         // count the number of digits 
         int length = countDigit(n); 
@@ -25,6 +26,7 @@ public:
         } 
         return (n == sum);
     }
+    
     vector<int> getNarcissisticNumbers(int n) {
         vector<int> result;
         
@@ -56,21 +58,21 @@ public:
                 }
             }
         }
-                if (n == 5) {
+        if (n == 5) {
             for (int i = 10000; i < 100000; i++) {
                 if (check(i)) {
                     result.push_back(i);
                 }
             }
         }
-                if (n == 6) {
+        if (n == 6) {
             for (int i = 100000; i < 1000000; i++) {
                 if (check(i)) {
                     result.push_back(i);
                 }
             }
         }
-                if (n == 7) {
+        if (n == 7) {
             for (int i = 1000000; i < 10000000; i++) {
                 if (check(i)) {
                     result.push_back(i);

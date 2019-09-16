@@ -93,3 +93,4 @@ Here are my codes.
 | 196 |[Missing Number](https://www.lintcode.com/problem/missing-number/description)| [C++](./C++/missing-number.cpp) | Medium | O(n) | DC |
 | 112 |[Remove Duplicates from Sorted List](https://www.lintcode.com/problem/remove-duplicates-from-sorted-list/description)| [C++](./C++/remove-duplicates-from-sorted-list.cpp) | Easy | O(n) | NC |
 | 97 |[Maximum Depth of Binary Tree](https://www.lintcode.com/problem/maximum-depth-of-binary-tree/description)| [C++](./C++/maximum-depth-of-binary-tree.cpp) | Easy | O(n) | NC |
+| 147 |:moneybag: [Narcissistic Number](https://www.lintcode.com/problem/narcissistic-number/description)| [C++](./C++/narcissistic-number.cpp) | Easy | Unspecified | NC |

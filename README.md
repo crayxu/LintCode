@@ -1,4 +1,4 @@
-# [LintCode](http://www.lintcode.com/en/problem/) ![Language](https://img.shields.io/badge/Language-C%2B%2B-orange.svg) ![Progress](https://img.shields.io/badge/Progress-79-green.svg) ![Author](https://img.shields.io/badge/Author-Cray%20Xu-blue.svg)
+# [LintCode](http://www.lintcode.com/en/problem/) ![Language](https://img.shields.io/badge/Language-C%2B%2B-orange.svg) ![Progress](https://img.shields.io/badge/Progress-80-green.svg) ![Author](https://img.shields.io/badge/Author-Cray%20Xu-blue.svg)
 
 I am a code lover and still studying C++, Data Structure and Algorithm.
 The purpose of this repo is only for me to record my learning progress.
@@ -92,5 +92,6 @@ Here are my codes.
 | 97 |[Maximum Depth of Binary Tree](https://www.lintcode.com/problem/maximum-depth-of-binary-tree/description)| [C++](./C++/maximum-depth-of-binary-tree.cpp) | Easy | O(n) | NC |
 | 147 |:moneybag: [Narcissistic Number](https://www.lintcode.com/problem/narcissistic-number/description)| [C++](./C++/narcissistic-number.cpp) | Easy | Unspecified | NC |
 | 1820 |[Find Letter](https://www.lintcode.com/problem/find-letter/description)| [C++](./C++/find-letter.cpp) | Easy | O(n) | NC |
+| 1604 |[Maximum Sum of Two Numbers](https://www.lintcode.com/problem/maximum-sum-of-two-numbers/description)| [C++](./C++/maximum-sum-of-two-numbers.cpp) | Medium | Unspecified | NC |
 
 

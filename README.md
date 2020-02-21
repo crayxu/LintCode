@@ -91,6 +91,6 @@ Here are my codes.
 | 112 |[Remove Duplicates from Sorted List](https://www.lintcode.com/problem/remove-duplicates-from-sorted-list/description)| [C++](./C++/remove-duplicates-from-sorted-list.cpp) | Easy | O(n) | NC |
 | 97 |[Maximum Depth of Binary Tree](https://www.lintcode.com/problem/maximum-depth-of-binary-tree/description)| [C++](./C++/maximum-depth-of-binary-tree.cpp) | Easy | O(n) | NC |
 | 147 |:moneybag: [Narcissistic Number](https://www.lintcode.com/problem/narcissistic-number/description)| [C++](./C++/narcissistic-number.cpp) | Easy | Unspecified | NC |
-| 1820 |[Find Letter](https://www.lintcode.com/problem/find-letter/description)| [C++](./C++/find-letter.cpp) | Easy | Unspecified | NC |
+| 1820 |[Find Letter](https://www.lintcode.com/problem/find-letter/description)| [C++](./C++/find-letter.cpp) | Easy | O(n) | NC |
 
 
